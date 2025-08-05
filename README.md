@@ -1,3 +1,3 @@
 # Laboratorio 1 - Batalla Pokémon
 
-Simulación de batallas entre entrenadores Pokémon en 4 rondas usando POO en Java.
+Juego de batallas pokemon de 4 rondas con habilidades especiales.
